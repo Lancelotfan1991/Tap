@@ -1,2 +1,3 @@
 # Tap
-A game with very simple ui interface.
+
+A simple game with simple user interface. 
